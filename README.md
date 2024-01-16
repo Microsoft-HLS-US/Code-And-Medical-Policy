@@ -7,8 +7,11 @@ Included is a starter solution that allows Payors to manage Medical Codes and Po
 ## Installation
 
 Import the unmanaged solution zip file to your Dataverse environment and publish all customizations. 
+
 Import the zip files into the environment to populate Lookup tables. 
+
 Ensure that all connections/references are resolved in the Canvas App (Add Programs) prior to execution. 
+
 
 ## License
 
